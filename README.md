@@ -11,10 +11,12 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Snpyxd/Leetcode/tree/master/0079-word-search) |
+| [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Snpyxd/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
+| [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Snpyxd/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Matrix
 |  |
@@ -25,6 +27,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Snpyxd/Leetcode/tree/master/0079-word-search) |
+| [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
 | ------- |
