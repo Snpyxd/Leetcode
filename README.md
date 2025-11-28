@@ -29,6 +29,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Snpyxd/Leetcode/tree/master/0079-word-search) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Snpyxd/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Hash Table
 |  |
 | ------- |
@@ -41,4 +42,8 @@
 |  |
 | ------- |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Snpyxd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
+## Tree
+|  |
+| ------- |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/Snpyxd/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
 <!---LeetCode Topics End-->
