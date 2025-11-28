@@ -11,6 +11,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Snpyxd/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
 | [0980-unique-paths-iii](https://github.com/Snpyxd/Leetcode/tree/master/0980-unique-paths-iii) |
 ## Bit Manipulation
@@ -27,6 +28,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Snpyxd/Leetcode/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
 ## Depth-First Search
 |  |
@@ -49,4 +51,8 @@
 |  |
 | ------- |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/Snpyxd/Leetcode/tree/master/2872-maximum-number-of-k-divisible-components) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
