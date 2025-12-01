@@ -52,6 +52,7 @@
 ## Database
 |  |
 | ------- |
+| [1251-average-selling-price](https://github.com/Snpyxd/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Snpyxd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Tree
 |  |
