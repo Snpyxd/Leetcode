@@ -64,6 +64,7 @@
 | [0183-customers-who-never-order](https://github.com/Snpyxd/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Snpyxd/Leetcode/tree/master/0184-department-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Snpyxd/Leetcode/tree/master/0185-department-top-three-salaries) |
+| [0511-game-play-analysis-i](https://github.com/Snpyxd/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [1251-average-selling-price](https://github.com/Snpyxd/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Snpyxd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Tree
