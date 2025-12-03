@@ -66,6 +66,7 @@
 | [0185-department-top-three-salaries](https://github.com/Snpyxd/Leetcode/tree/master/0185-department-top-three-salaries) |
 | [0511-game-play-analysis-i](https://github.com/Snpyxd/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Snpyxd/Leetcode/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Snpyxd/Leetcode/tree/master/0584-find-customer-referee) |
 | [1251-average-selling-price](https://github.com/Snpyxd/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Snpyxd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Tree
