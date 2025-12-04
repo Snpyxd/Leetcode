@@ -36,6 +36,7 @@
 | [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/Snpyxd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
+| [2211-count-collisions-on-a-road](https://github.com/Snpyxd/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,4 +145,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
+## Stack
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Snpyxd/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Simulation
+|  |
+| ------- |
+| [2211-count-collisions-on-a-road](https://github.com/Snpyxd/Leetcode/tree/master/2211-count-collisions-on-a-road) |
 <!---LeetCode Topics End-->
