@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Snpyxd/Leetcode/tree/master/0079-word-search) |
+| [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
 | [0980-unique-paths-iii](https://github.com/Snpyxd/Leetcode/tree/master/0980-unique-paths-iii) |
 | [1590-make-sum-divisible-by-p](https://github.com/Snpyxd/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -44,6 +45,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/Snpyxd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1590-make-sum-divisible-by-p](https://github.com/Snpyxd/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -103,6 +105,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Breadth-First Search
 |  |
@@ -133,4 +136,12 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Snpyxd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
