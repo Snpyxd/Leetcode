@@ -1,5 +1,10 @@
 class Solution:
-    def majorityElement(self, nums: List[int]) -> int:
+    def majorityElement(self, nums):
+        freq = {}
 
-        nums.sort()
-        return nums[len(nums)//2]
+        for n in nums:
+            freq[n] = freq.get(n, 0) + 1
+            if freq[n] > len(nums) // 2:
+                return n
+
+            
