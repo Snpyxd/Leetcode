@@ -81,6 +81,7 @@
 |  |
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 ## Design
 |  |
 | ------- |
@@ -112,6 +113,7 @@
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
@@ -119,4 +121,12 @@
 | ------- |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
