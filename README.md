@@ -80,6 +80,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Snpyxd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 ## Design
@@ -113,6 +114,7 @@
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Snpyxd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -128,5 +130,6 @@
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Snpyxd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
