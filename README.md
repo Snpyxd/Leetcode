@@ -10,6 +10,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Snpyxd/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Backtracking
@@ -57,6 +58,7 @@
 | ------- |
 | [1590-make-sum-divisible-by-p](https://github.com/Snpyxd/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Database
 |  |
 | ------- |
@@ -121,6 +123,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Snpyxd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Geometry
