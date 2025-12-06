@@ -11,6 +11,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Backtracking
@@ -59,6 +60,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Snpyxd/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Database
 |  |
 | ------- |
@@ -89,6 +91,7 @@
 | [0070-climbing-stairs](https://github.com/Snpyxd/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Snpyxd/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Design
 |  |
 | ------- |
@@ -156,4 +159,16 @@
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Snpyxd/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+## Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Sliding Window
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 <!---LeetCode Topics End-->
