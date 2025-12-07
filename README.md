@@ -14,6 +14,7 @@
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snpyxd/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Backtracking
 |  |
 | ------- |
@@ -130,6 +131,7 @@
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snpyxd/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Geometry
 |  |
 | ------- |
