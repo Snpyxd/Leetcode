@@ -78,6 +78,7 @@
 | [0577-employee-bonus](https://github.com/Snpyxd/Leetcode/tree/master/0577-employee-bonus) |
 | [0584-find-customer-referee](https://github.com/Snpyxd/Leetcode/tree/master/0584-find-customer-referee) |
 | [0585-investments-in-2016](https://github.com/Snpyxd/Leetcode/tree/master/0585-investments-in-2016) |
+| [0620-not-boring-movies](https://github.com/Snpyxd/Leetcode/tree/master/0620-not-boring-movies) |
 | [1251-average-selling-price](https://github.com/Snpyxd/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Snpyxd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Tree
