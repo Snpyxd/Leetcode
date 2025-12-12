@@ -11,6 +11,7 @@
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Snpyxd/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Snpyxd/Leetcode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -118,6 +119,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
+| [3433-count-mentions-per-user](https://github.com/Snpyxd/Leetcode/tree/master/3433-count-mentions-per-user) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -133,6 +135,7 @@
 | [0509-fibonacci-number](https://github.com/Snpyxd/Leetcode/tree/master/0509-fibonacci-number) |
 | [1925-count-square-sum-triples](https://github.com/Snpyxd/Leetcode/tree/master/1925-count-square-sum-triples) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Snpyxd/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/Snpyxd/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snpyxd/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -167,6 +170,7 @@
 |  |
 | ------- |
 | [2211-count-collisions-on-a-road](https://github.com/Snpyxd/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [3433-count-mentions-per-user](https://github.com/Snpyxd/Leetcode/tree/master/3433-count-mentions-per-user) |
 ## Queue
 |  |
 | ------- |
