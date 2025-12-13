@@ -88,6 +88,7 @@
 | [0595-big-countries](https://github.com/Snpyxd/Leetcode/tree/master/0595-big-countries) |
 | [0607-sales-person](https://github.com/Snpyxd/Leetcode/tree/master/0607-sales-person) |
 | [0620-not-boring-movies](https://github.com/Snpyxd/Leetcode/tree/master/0620-not-boring-movies) |
+| [1045-customers-who-bought-all-products](https://github.com/Snpyxd/Leetcode/tree/master/1045-customers-who-bought-all-products) |
 | [1251-average-selling-price](https://github.com/Snpyxd/Leetcode/tree/master/1251-average-selling-price) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Snpyxd/Leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 ## Tree
