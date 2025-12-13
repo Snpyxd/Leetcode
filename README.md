@@ -14,6 +14,7 @@
 | [3433-count-mentions-per-user](https://github.com/Snpyxd/Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Snpyxd/Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Snpyxd/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Snpyxd/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Snpyxd/Leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -42,6 +43,7 @@
 | [0208-implement-trie-prefix-tree](https://github.com/Snpyxd/Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0784-letter-case-permutation](https://github.com/Snpyxd/Leetcode/tree/master/0784-letter-case-permutation) |
 | [2211-count-collisions-on-a-road](https://github.com/Snpyxd/Leetcode/tree/master/2211-count-collisions-on-a-road) |
+| [3606-coupon-code-validator](https://github.com/Snpyxd/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -56,6 +58,7 @@
 | [1590-make-sum-divisible-by-p](https://github.com/Snpyxd/Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Snpyxd/Leetcode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3583-count-special-triplets](https://github.com/Snpyxd/Leetcode/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Snpyxd/Leetcode/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Snpyxd/Leetcode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Snpyxd/Leetcode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Prefix Sum
@@ -120,6 +123,7 @@
 | [0169-majority-element](https://github.com/Snpyxd/Leetcode/tree/master/0169-majority-element) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/Snpyxd/Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3433-count-mentions-per-user](https://github.com/Snpyxd/Leetcode/tree/master/3433-count-mentions-per-user) |
+| [3606-coupon-code-validator](https://github.com/Snpyxd/Leetcode/tree/master/3606-coupon-code-validator) |
 ## Breadth-First Search
 |  |
 | ------- |
